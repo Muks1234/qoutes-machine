@@ -1,0 +1,62 @@
+#tweet-quote,#share-tumblr{
+ font-size:55px;
+ vertical-align: -10px;
+ margin-right:5px;
+}
+#my-left-quote{
+  margin-right:10px;
+}
+#byme{
+  margin: auto;
+  text-align: center;
+  color:white;
+}
+
+#quote-box{
+  width: 650px;
+  margin:auto;
+  background-color: white;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  padding-right:55px;
+  padding-left:55px;
+  padding-bottom:50px;
+  padding-top:40px;
+}
+
+
+#author{
+  text-align: right;
+}
+
+#new-quote{
+  width:120px;
+  float: right;
+  font-size: 13pt;
+  padding:12px;
+  color:white;
+  background-color: black;
+}
+
+#buttons-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+#text{
+  text-align: center
+}
+
+#container-div{
+  width:100%;
+  height:100vh;
+  background-color:red;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
